@@ -1,0 +1,112 @@
+C:\Users\Alena\Desktop\computerTech\computerTech\bin\Debug\computerTech.exe.config
+C:\Users\Alena\Desktop\computerTech\computerTech\bin\Debug\computerTech.exe
+C:\Users\Alena\Desktop\computerTech\computerTech\bin\Debug\computerTech.pdb
+C:\Users\Alena\Desktop\computerTech\computerTech\obj\Debug\computerTech.csproj.AssemblyReference.cache
+C:\Users\Alena\Desktop\computerTech\computerTech\obj\Debug\computerTech.Properties.Resources.resources
+C:\Users\Alena\Desktop\computerTech\computerTech\obj\Debug\computerTech.csproj.GenerateResource.cache
+C:\Users\Alena\Desktop\computerTech\computerTech\obj\Debug\computerTech.csproj.CoreCompileInputs.cache
+C:\Users\Alena\Desktop\computerTech\computerTech\obj\Debug\computerTech.exe
+C:\Users\Alena\Desktop\computerTech\computerTech\obj\Debug\computerTech.pdb
+C:\Users\Alena\Desktop\computerTech\computerTech\obj\Debug\computerTech.Autorization.resources
+C:\Users\Alena\Desktop\computerTech\computerTech\obj\Debug\computerTech.CustomerMain.resources
+C:\Users\Alena\Desktop\computerTech\computerTech\obj\Debug\computerTech.clientRequests.resources
+C:\Users\Alena\Desktop\computerTech\computerTech\obj\Debug\computerTech.OperatorMain.resources
+H:\УП\задание5\computerTech\computerTech\bin\Debug\computerTech.exe.config
+H:\УП\задание5\computerTech\computerTech\bin\Debug\computerTech.exe
+H:\УП\задание5\computerTech\computerTech\bin\Debug\computerTech.pdb
+H:\УП\задание5\computerTech\computerTech\obj\Debug\computerTech.csproj.AssemblyReference.cache
+H:\УП\задание5\computerTech\computerTech\obj\Debug\computerTech.Autorization.resources
+H:\УП\задание5\computerTech\computerTech\obj\Debug\computerTech.clientRequests.resources
+H:\УП\задание5\computerTech\computerTech\obj\Debug\computerTech.CustomerMain.resources
+H:\УП\задание5\computerTech\computerTech\obj\Debug\computerTech.OperatorMain.resources
+H:\УП\задание5\computerTech\computerTech\obj\Debug\computerTech.Properties.Resources.resources
+H:\УП\задание5\computerTech\computerTech\obj\Debug\computerTech.csproj.GenerateResource.cache
+H:\УП\задание5\computerTech\computerTech\obj\Debug\computerTech.csproj.CoreCompileInputs.cache
+H:\УП\задание5\computerTech\computerTech\obj\Debug\computerTech.exe
+H:\УП\задание5\computerTech\computerTech\obj\Debug\computerTech.pdb
+H:\УП\задание5\computerTech\computerTech\obj\Debug\computerTech.History.resources
+C:\Users\Alena\Downloads\computerTech2\computerTech\obj\Debug\computerTech.csproj.AssemblyReference.cache
+C:\Users\Alena\Downloads\computerTech2\computerTech\obj\Debug\computerTech.Autorization.resources
+C:\Users\Alena\Downloads\computerTech2\computerTech\obj\Debug\computerTech.clientRequests.resources
+C:\Users\Alena\Downloads\computerTech2\computerTech\obj\Debug\computerTech.CustomerMain.resources
+C:\Users\Alena\Downloads\computerTech2\computerTech\obj\Debug\computerTech.History.resources
+C:\Users\Alena\Downloads\computerTech2\computerTech\obj\Debug\computerTech.OperatorMain.resources
+C:\Users\Alena\Downloads\computerTech2\computerTech\obj\Debug\computerTech.Properties.Resources.resources
+C:\Users\Alena\Downloads\computerTech2\computerTech\obj\Debug\computerTech.TechnicianMain.resources
+C:\Users\Alena\Downloads\computerTech2\computerTech\obj\Debug\computerTech.csproj.GenerateResource.cache
+C:\Users\Alena\Downloads\computerTech2\computerTech\obj\Debug\computerTech.csproj.CoreCompileInputs.cache
+C:\Users\Alena\Downloads\computerTech2\computerTech\obj\Debug\computerTech.exe
+C:\Users\Alena\Downloads\computerTech2\computerTech\obj\Debug\computerTech.pdb
+C:\Users\Alena\Downloads\computerTech2\computerTech\bin\Debug\computerTech.exe.config
+C:\Users\Alena\Downloads\computerTech2\computerTech\bin\Debug\computerTech.exe
+C:\Users\Alena\Downloads\computerTech2\computerTech\bin\Debug\computerTech.pdb
+C:\Users\Alena\Downloads\computerTech2\computerTech\obj\Debug\computerTech.Materials.resources
+C:\Users\Alena\Downloads\computerTech2\computerTech\obj\Debug\computerTech.CustomerFirst.resources
+C:\Users\Alena\Downloads\computerTech2\computerTech\obj\Debug\computerTech.MasterFirst.resources
+C:\Users\Alena\Downloads\computerTech2\computerTech\obj\Debug\computerTech.OperatorFirst.resources
+H:\УП\computerTech2\computerTech\bin\Debug\computerTech.exe.config
+H:\УП\computerTech2\computerTech\bin\Debug\computerTech.exe
+H:\УП\computerTech2\computerTech\bin\Debug\computerTech.pdb
+H:\УП\computerTech2\computerTech\obj\Debug\computerTech.csproj.AssemblyReference.cache
+H:\УП\computerTech2\computerTech\obj\Debug\computerTech.Autorization.resources
+H:\УП\computerTech2\computerTech\obj\Debug\computerTech.clientRequests.resources
+H:\УП\computerTech2\computerTech\obj\Debug\computerTech.CustomerFirst.resources
+H:\УП\computerTech2\computerTech\obj\Debug\computerTech.CustomerMain.resources
+H:\УП\computerTech2\computerTech\obj\Debug\computerTech.History.resources
+H:\УП\computerTech2\computerTech\obj\Debug\computerTech.MasterFirst.resources
+H:\УП\computerTech2\computerTech\obj\Debug\computerTech.Materials.resources
+H:\УП\computerTech2\computerTech\obj\Debug\computerTech.OperatorFirst.resources
+H:\УП\computerTech2\computerTech\obj\Debug\computerTech.OperatorMain.resources
+H:\УП\computerTech2\computerTech\obj\Debug\computerTech.Properties.Resources.resources
+H:\УП\computerTech2\computerTech\obj\Debug\computerTech.TechnicianMain.resources
+H:\УП\computerTech2\computerTech\obj\Debug\computerTech.csproj.GenerateResource.cache
+H:\УП\computerTech2\computerTech\obj\Debug\computerTech.csproj.CoreCompileInputs.cache
+H:\УП\computerTech2\computerTech\obj\Debug\computerTech.exe
+H:\УП\computerTech2\computerTech\obj\Debug\computerTech.pdb
+H:\УП\computerTech2\computerTech\obj\Debug\computerTech.ManagerMain.resources
+H:\УП\computerTech2\computerTech\obj\Debug\computerTech.QR.resources
+C:\Users\429193-24\Desktop\computerTech2\computerTech\bin\Debug\computerTech.exe.config
+C:\Users\429193-24\Desktop\computerTech2\computerTech\bin\Debug\computerTech.exe
+C:\Users\429193-24\Desktop\computerTech2\computerTech\bin\Debug\computerTech.pdb
+C:\Users\429193-24\Desktop\computerTech2\computerTech\obj\Debug\computerTech.csproj.AssemblyReference.cache
+C:\Users\429193-24\Desktop\computerTech2\computerTech\obj\Debug\computerTech.Autorization.resources
+C:\Users\429193-24\Desktop\computerTech2\computerTech\obj\Debug\computerTech.clientRequests.resources
+C:\Users\429193-24\Desktop\computerTech2\computerTech\obj\Debug\computerTech.CustomerFirst.resources
+C:\Users\429193-24\Desktop\computerTech2\computerTech\obj\Debug\computerTech.CustomerMain.resources
+C:\Users\429193-24\Desktop\computerTech2\computerTech\obj\Debug\computerTech.History.resources
+C:\Users\429193-24\Desktop\computerTech2\computerTech\obj\Debug\computerTech.ManagerMain.resources
+C:\Users\429193-24\Desktop\computerTech2\computerTech\obj\Debug\computerTech.MasterFirst.resources
+C:\Users\429193-24\Desktop\computerTech2\computerTech\obj\Debug\computerTech.Materials.resources
+C:\Users\429193-24\Desktop\computerTech2\computerTech\obj\Debug\computerTech.OperatorFirst.resources
+C:\Users\429193-24\Desktop\computerTech2\computerTech\obj\Debug\computerTech.OperatorMain.resources
+C:\Users\429193-24\Desktop\computerTech2\computerTech\obj\Debug\computerTech.Properties.Resources.resources
+C:\Users\429193-24\Desktop\computerTech2\computerTech\obj\Debug\computerTech.QR.resources
+C:\Users\429193-24\Desktop\computerTech2\computerTech\obj\Debug\computerTech.TechnicianMain.resources
+C:\Users\429193-24\Desktop\computerTech2\computerTech\obj\Debug\computerTech.csproj.GenerateResource.cache
+C:\Users\429193-24\Desktop\computerTech2\computerTech\obj\Debug\computerTech.csproj.CoreCompileInputs.cache
+C:\Users\429193-24\Desktop\computerTech2\computerTech\obj\Debug\computerTech.exe
+C:\Users\429193-24\Desktop\computerTech2\computerTech\obj\Debug\computerTech.pdb
+D:\Учебная практика Вар 4\Лабы\5 не сделано\computerTech2\computerTech\bin\Debug\computerTech.exe.config
+D:\Учебная практика Вар 4\Лабы\5 не сделано\computerTech2\computerTech\bin\Debug\computerTech.exe
+D:\Учебная практика Вар 4\Лабы\5 не сделано\computerTech2\computerTech\bin\Debug\computerTech.pdb
+D:\Учебная практика Вар 4\Лабы\5 не сделано\computerTech2\computerTech\obj\Debug\computerTech.csproj.AssemblyReference.cache
+D:\Учебная практика Вар 4\Лабы\5 не сделано\computerTech2\computerTech\obj\Debug\computerTech.Autorization.resources
+D:\Учебная практика Вар 4\Лабы\5 не сделано\computerTech2\computerTech\obj\Debug\computerTech.clientRequests.resources
+D:\Учебная практика Вар 4\Лабы\5 не сделано\computerTech2\computerTech\obj\Debug\computerTech.CustomerFirst.resources
+D:\Учебная практика Вар 4\Лабы\5 не сделано\computerTech2\computerTech\obj\Debug\computerTech.CustomerMain.resources
+D:\Учебная практика Вар 4\Лабы\5 не сделано\computerTech2\computerTech\obj\Debug\computerTech.History.resources
+D:\Учебная практика Вар 4\Лабы\5 не сделано\computerTech2\computerTech\obj\Debug\computerTech.ManagerMain.resources
+D:\Учебная практика Вар 4\Лабы\5 не сделано\computerTech2\computerTech\obj\Debug\computerTech.MasterFirst.resources
+D:\Учебная практика Вар 4\Лабы\5 не сделано\computerTech2\computerTech\obj\Debug\computerTech.Materials.resources
+D:\Учебная практика Вар 4\Лабы\5 не сделано\computerTech2\computerTech\obj\Debug\computerTech.OperatorFirst.resources
+D:\Учебная практика Вар 4\Лабы\5 не сделано\computerTech2\computerTech\obj\Debug\computerTech.OperatorMain.resources
+D:\Учебная практика Вар 4\Лабы\5 не сделано\computerTech2\computerTech\obj\Debug\computerTech.Properties.Resources.resources
+D:\Учебная практика Вар 4\Лабы\5 не сделано\computerTech2\computerTech\obj\Debug\computerTech.QR.resources
+D:\Учебная практика Вар 4\Лабы\5 не сделано\computerTech2\computerTech\obj\Debug\computerTech.TechnicianMain.resources
+D:\Учебная практика Вар 4\Лабы\5 не сделано\computerTech2\computerTech\obj\Debug\computerTech.csproj.GenerateResource.cache
+D:\Учебная практика Вар 4\Лабы\5 не сделано\computerTech2\computerTech\obj\Debug\computerTech.csproj.CoreCompileInputs.cache
+D:\Учебная практика Вар 4\Лабы\5 не сделано\computerTech2\computerTech\obj\Debug\computerTech.exe
+D:\Учебная практика Вар 4\Лабы\5 не сделано\computerTech2\computerTech\obj\Debug\computerTech.pdb
+D:\Учебная практика Вар 4\Лабы\5 не сделано\computerTech2\computerTech\bin\Debug\ComputerTechDll.dll
+D:\Учебная практика Вар 4\Лабы\5 не сделано\computerTech2\computerTech\bin\Debug\ComputerTechDll.pdb
+D:\Учебная практика Вар 4\Лабы\5 не сделано\computerTech2\computerTech\obj\Debug\computer.B592A097.Up2Date

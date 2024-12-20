@@ -1,0 +1,6 @@
+D:\Учебная практика Вар 4\Лабы\5 не сделано\computerTech2\ComputerTechDll\obj\Debug\ComputerTechDll.csproj.AssemblyReference.cache
+D:\Учебная практика Вар 4\Лабы\5 не сделано\computerTech2\ComputerTechDll\obj\Debug\ComputerTechDll.csproj.CoreCompileInputs.cache
+D:\Учебная практика Вар 4\Лабы\5 не сделано\computerTech2\ComputerTechDll\bin\Debug\ComputerTechDll.dll
+D:\Учебная практика Вар 4\Лабы\5 не сделано\computerTech2\ComputerTechDll\bin\Debug\ComputerTechDll.pdb
+D:\Учебная практика Вар 4\Лабы\5 не сделано\computerTech2\ComputerTechDll\obj\Debug\ComputerTechDll.dll
+D:\Учебная практика Вар 4\Лабы\5 не сделано\computerTech2\ComputerTechDll\obj\Debug\ComputerTechDll.pdb
